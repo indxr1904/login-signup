@@ -57,17 +57,3 @@ A complete authentication system built with **Node.js, Express, MongoDB, and JWT
 
     🔹 Login
     POST /api/v1/users/login
-
-6.  🗂 Folder Structure
-
-    project/
-    ├── controllers/
-    │ └── authController.js
-    ├── models/
-    │ └── userModel.js
-    ├── utils/
-    │ ├── appError.js
-    │ └── sendEmail.js
-    ├── server.js
-    ├── config.env
-    └── README.md
